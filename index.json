@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-25T00:00:00.000Z",
+  "packages": [
+    {
+      "id": "prodigal-son",
+      "type": "playlist",
+      "path": "prodigal-son.playlist.zip",
+      "name": "Prodigal Son",
+      "description": "A curated playlist about the parable of the Prodigal Son.",
+      "author": "Theodia",
+      "tags": ["playlist", "prodigal-son", "parable", "luke"],
+      "version": "1.0.0"
+    }
+  ]
+}
