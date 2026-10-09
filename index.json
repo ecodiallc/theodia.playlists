@@ -5,161 +5,237 @@
     {
       "id": "10-core-memory-verses",
       "type": "playlist",
-      "path": "10-core-memory-verses.playlist.zip",
+      "path": "10-Core-Memory-Verses.playlist.zip",
       "name": "10 Core Memory Verses",
       "description": "Ten of the most frequently memorized verses, each spoken twice with a brief pause.",
       "author": "Theodia",
-      "tags": ["playlist", "memory", "verses"],
+      "tags": [
+        "playlist",
+        "memory",
+        "verses"
+      ],
       "version": "1.0.0"
     },
     {
       "id": "23rd-psalm-variations",
       "type": "playlist",
-      "path": "23rd-psalm-variations.playlist.zip",
+      "path": "23rd-Psalm-Variations.playlist.zip",
       "name": "23rd Psalm Variations",
       "description": "Psalm 23 read once, then a plain-text meditation on its key images.",
       "author": "Theodia",
-      "tags": ["playlist", "memory", "psalm", "psalm-23"],
+      "tags": [
+        "playlist",
+        "memory",
+        "psalm",
+        "psalm-23"
+      ],
       "version": "1.0.0"
     },
     {
       "id": "armor-of-god",
       "type": "playlist",
-      "path": "armor-of-god.playlist.zip",
+      "path": "Armor-Of-God.playlist.zip",
       "name": "Armor of God",
       "description": "Ephesians 6:10-18 read and then each piece of armor unpacked.",
       "author": "Theodia",
-      "tags": ["playlist", "foundations", "ephesians", "armor"],
+      "tags": [
+        "playlist",
+        "foundations",
+        "ephesians",
+        "armor"
+      ],
       "version": "1.0.0"
     },
     {
       "id": "bedtime-psalms",
       "type": "playlist",
-      "path": "bedtime-psalms.playlist.zip",
+      "path": "Bedtime-Psalms.playlist.zip",
       "name": "Bedtime Psalms",
       "description": "Gentle Psalms and short restful passages, with a slow, quiet framing.",
       "author": "Theodia",
-      "tags": ["playlist", "daily", "psalms", "bedtime"],
+      "tags": [
+        "playlist",
+        "daily",
+        "psalms",
+        "bedtime"
+      ],
       "version": "1.0.0"
     },
     {
       "id": "benedictions-and-blessings",
       "type": "playlist",
-      "path": "benedictions-and-blessings.playlist.zip",
+      "path": "Benedictions-And-Blessings.playlist.zip",
       "name": "Benedictions and Blessings",
       "description": "Scripture blessings to send someone off, end a meeting, or close a day.",
       "author": "Theodia",
-      "tags": ["playlist", "worship", "blessings"],
+      "tags": [
+        "playlist",
+        "worship",
+        "blessings"
+      ],
       "version": "1.0.0"
     },
     {
       "id": "comfort-in-sorrow",
       "type": "playlist",
-      "path": "comfort-in-sorrow.playlist.zip",
+      "path": "Comfort-In-Sorrow.playlist.zip",
       "name": "Comfort in Sorrow",
       "description": "Verses about God's nearness in grief, anxiety, and loss.",
       "author": "Theodia",
-      "tags": ["playlist", "comfort", "grief", "encouragement"],
+      "tags": [
+        "playlist",
+        "comfort",
+        "grief",
+        "encouragement"
+      ],
       "version": "1.0.0"
     },
     {
       "id": "genesis-beginnings",
       "type": "playlist",
-      "path": "genesis-beginnings.playlist.zip",
+      "path": "Genesis-Beginnings.playlist.zip",
       "name": "Genesis: Beginnings",
       "description": "A curated playlist of Genesis 1-11 highlights: creation, fall, flood, Babel, and the call of Abraham.",
       "author": "Theodia",
-      "tags": ["playlist", "overview", "genesis"],
+      "tags": [
+        "playlist",
+        "overview",
+        "genesis"
+      ],
       "version": "1.0.0"
     },
     {
       "id": "morning-commute-devotional",
       "type": "playlist",
-      "path": "morning-commute-devotional.playlist.zip",
+      "path": "Morning-Commute-Devotional.playlist.zip",
       "name": "Morning Commute Devotional",
       "description": "A five-minute starter for the day: greeting, a Psalm, a short Gospel reflection, and a sending blessing.",
       "author": "Theodia",
-      "tags": ["playlist", "daily", "devotional", "morning"],
+      "tags": [
+        "playlist",
+        "daily",
+        "devotional",
+        "morning"
+      ],
       "version": "1.0.0"
     },
     {
       "id": "prodigal-son",
       "type": "playlist",
-      "path": "prodigal-son.playlist.zip",
+      "path": "Prodigal-Son.playlist.zip",
       "name": "Prodigal Son",
       "description": "A curated playlist about the parable of the Prodigal Son.",
       "author": "Theodia",
-      "tags": ["playlist", "prodigal-son", "parable", "luke"],
+      "tags": [
+        "playlist",
+        "prodigal-son",
+        "parable",
+        "luke"
+      ],
       "version": "1.0.0"
     },
     {
       "id": "the-beatitudes",
       "type": "playlist",
-      "path": "the-beatitudes.playlist.zip",
+      "path": "The-Beatitudes.playlist.zip",
       "name": "The Beatitudes",
       "description": "Matthew 5:3-12 read as a single unit, then each beatitude repeated with a one-line reflection.",
       "author": "Theodia",
-      "tags": ["playlist", "virtue", "sermon-on-the-mount", "beatitudes"],
+      "tags": [
+        "playlist",
+        "virtue",
+        "sermon-on-the-mount",
+        "beatitudes"
+      ],
       "version": "1.0.0"
     },
     {
       "id": "the-fruit-of-the-spirit",
       "type": "playlist",
-      "path": "the-fruit-of-the-spirit.playlist.zip",
+      "path": "The-Fruit-Of-The-Spirit.playlist.zip",
       "name": "The Fruit of the Spirit",
       "description": "Galatians 5:22-23 unpacked with one short passage or reflection per fruit.",
       "author": "Theodia",
-      "tags": ["playlist", "virtue", "fruit-of-the-spirit", "galatians"],
+      "tags": [
+        "playlist",
+        "virtue",
+        "fruit-of-the-spirit",
+        "galatians"
+      ],
       "version": "1.0.0"
     },
     {
       "id": "the-good-news-in-ten-verses",
       "type": "playlist",
-      "path": "the-good-news-in-ten-verses.playlist.zip",
+      "path": "The-Good-News-In-Ten-Verses.playlist.zip",
       "name": "The Good News in Ten Verses",
       "description": "A concise redemption narrative from creation to restoration.",
       "author": "Theodia",
-      "tags": ["playlist", "gospel", "evangelism", "redemption"],
+      "tags": [
+        "playlist",
+        "gospel",
+        "evangelism",
+        "redemption"
+      ],
       "version": "1.0.0"
     },
     {
       "id": "the-lords-prayer",
       "type": "playlist",
-      "path": "the-lords-prayer.playlist.zip",
+      "path": "The-Lords-Prayer.playlist.zip",
       "name": "The Lord's Prayer",
       "description": "The Lord's Prayer from Matthew 6, spoken slowly, then phrase by phrase.",
       "author": "Theodia",
-      "tags": ["playlist", "memory", "prayer", "matthew"],
+      "tags": [
+        "playlist",
+        "memory",
+        "prayer",
+        "matthew"
+      ],
       "version": "1.0.0"
     },
     {
       "id": "the-parables-of-jesus",
       "type": "playlist",
-      "path": "the-parables-of-jesus.playlist.zip",
+      "path": "The-Parables-Of-Jesus.playlist.zip",
       "name": "The Parables of Jesus",
       "description": "A sampler of Jesus' parables with brief context tracks.",
       "author": "Theodia",
-      "tags": ["playlist", "gospel", "parables", "jesus"],
+      "tags": [
+        "playlist",
+        "gospel",
+        "parables",
+        "jesus"
+      ],
       "version": "1.0.0"
     },
     {
       "id": "the-psalms-of-praise",
       "type": "playlist",
-      "path": "the-psalms-of-praise.playlist.zip",
+      "path": "The-Psalms-Of-Praise.playlist.zip",
       "name": "The Psalms of Praise",
       "description": "A short collection of Psalms focused on praise and thanksgiving.",
       "author": "Theodia",
-      "tags": ["playlist", "worship", "psalms", "praise"],
+      "tags": [
+        "playlist",
+        "worship",
+        "psalms",
+        "praise"
+      ],
       "version": "1.0.0"
     },
     {
       "id": "words-for-a-good-life",
       "type": "playlist",
-      "path": "words-for-a-good-life.playlist.zip",
+      "path": "Words-For-A-Good-Life.playlist.zip",
       "name": "Words for a Good Life",
       "description": "Proverbs selections on speech, work, friendship, money, and humility.",
       "author": "Theodia",
-      "tags": ["playlist", "wisdom", "proverbs"],
+      "tags": [
+        "playlist",
+        "wisdom",
+        "proverbs"
+      ],
       "version": "1.0.0"
     }
   ]
