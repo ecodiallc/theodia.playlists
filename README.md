@@ -1,4 +1,4 @@
-# Theodia.app Playlists
+# Theodia Playlists
 
 | Playlist | Category | Description |
 | -------- | -------- | ----------- |
