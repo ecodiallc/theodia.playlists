@@ -120,21 +120,6 @@
       "version": "1.0.0"
     },
     {
-      "id": "prodigal-son",
-      "type": "playlist",
-      "path": "Prodigal-Son.playlist.zip",
-      "name": "Prodigal Son",
-      "description": "A curated playlist about the parable of the Prodigal Son.",
-      "author": "Theodia",
-      "tags": [
-        "playlist",
-        "prodigal-son",
-        "parable",
-        "luke"
-      ],
-      "version": "1.0.0"
-    },
-    {
       "id": "the-beatitudes",
       "type": "playlist",
       "path": "The-Beatitudes.playlist.zip",

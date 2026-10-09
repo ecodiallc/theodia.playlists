@@ -10,7 +10,6 @@
 | [Comfort in Sorrow](Comfort-In-Sorrow.playlist.zip) | Comfort | Verses about God's nearness in grief, anxiety, and loss. |
 | [Genesis: Beginnings](Genesis-Beginnings.playlist.zip) | Overview | A curated playlist of Genesis 1-11 highlights: creation, fall, flood, Babel, and the call of Abraham. |
 | [Morning Commute Devotional](Morning-Commute-Devotional.playlist.zip) | Daily | A five-minute starter for the day: greeting, a Psalm, a short Gospel reflection, and a sending blessing. |
-| [Prodigal Son](Prodigal-Son.playlist.zip) | Gospel | A curated playlist about the parable of the Prodigal Son. |
 | [The Beatitudes](The-Beatitudes.playlist.zip) | Virtue | Matthew 5:3-12 read as a single unit, then each beatitude repeated with a one-line reflection. |
 | [The Fruit of the Spirit](The-Fruit-Of-The-Spirit.playlist.zip) | Virtue | Galatians 5:22-23 unpacked with one short passage or reflection per fruit. |
 | [The Good News in Ten Verses](The-Good-News-In-Ten-Verses.playlist.zip) | Gospel | A concise redemption narrative from creation to restoration. |
